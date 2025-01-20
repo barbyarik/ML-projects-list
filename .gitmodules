@@ -1,3 +1,7 @@
 [submodule "Telco-Churn-Prediction"]
 	path = Telco-Churn-Prediction
 	url = https://github.com/barbyarik/Telco-Churn-Prediction.git
+
+[submodule "Walmart-Sales-Forecasting"]
+	path = Walmart-Sales-Forecasting
+	url = https://github.com/barbyarik/Walmart-Sales-Forecasting.git
