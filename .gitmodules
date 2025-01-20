@@ -1,0 +1,3 @@
+[submodule "Telco-Churn-Prediction"]
+	path = Telco-Churn-Prediction
+	url = https://github.com/barbyarik/Telco-Churn-Prediction.git
