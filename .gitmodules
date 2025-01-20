@@ -1,0 +1,3 @@
+[submodule "Walmart-Sales-Forecasting"]
+	path = Walmart-Sales-Forecasting
+	url = https://github.com/barbyarik/Walmart-Sales-Forecasting.git
