@@ -17,3 +17,6 @@
 [submodule "Mayakovsky-Network"]
 	path = Mayakovsky-Network
 	url = https://github.com/barbyarik/Mayakovsky-Network.git
+[submodule "Bicep-Curl-Counter"]
+	path = Bicep-Curl-Counter
+	url = https://github.com/barbyarik/Bicep-Curl-Counter.git
