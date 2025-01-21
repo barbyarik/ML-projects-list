@@ -11,3 +11,6 @@
 [submodule "Sentiment-Analysis"]
 	path = Sentiment-Analysis
 	url = https://github.com/barbyarik/Sentiment-Analysis.git
+[submodule "Automatic-Number-Plate-Recognition"]
+	path = Automatic-Number-Plate-Recognition
+	url = https://github.com/barbyarik/Automatic-Number-Plate-Recognition.git
