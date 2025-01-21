@@ -14,3 +14,6 @@
 [submodule "Automatic-Number-Plate-Recognition"]
 	path = Automatic-Number-Plate-Recognition
 	url = https://github.com/barbyarik/Automatic-Number-Plate-Recognition.git
+[submodule "Mayakovsky-Network"]
+	path = Mayakovsky-Network
+	url = https://github.com/barbyarik/Mayakovsky-Network.git
