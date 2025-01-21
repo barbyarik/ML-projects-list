@@ -20,3 +20,6 @@
 [submodule "Bicep-Curl-Counter"]
 	path = Bicep-Curl-Counter
 	url = https://github.com/barbyarik/Bicep-Curl-Counter.git
+[submodule "Comment-Toxicity"]
+	path = Comment-Toxicity
+	url = https://github.com/barbyarik/Comment-Toxicity.git
