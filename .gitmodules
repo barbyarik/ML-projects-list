@@ -8,3 +8,6 @@
 [submodule "Airy-solution-PINN"]
 	path = Airy-solution-PINN
 	url = https://github.com/barbyarik/Airy-solution-PINN.git
+[submodule "Sentiment-Analysis"]
+	path = Sentiment-Analysis
+	url = https://github.com/barbyarik/Sentiment-Analysis.git
